@@ -1,0 +1,28 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "Euler quizzes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "xo"
+  },
+  "repository": "github:msr0b0t/project-euler",
+  "author": {
+    "name": "Mary Kouvela",
+    "email": "marykouvela@gmail.com",
+    "url": "https://github.com/msr0b0t"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msr0b0t/project-euler/issues"
+  },
+  "homepage": "https://github.com/msr0b0t/project-euler#readme",
+  "engines": {
+    "node": ">=9"
+  },
+  "private": true,
+  "devDependencies": {
+    "xo": "^0.20.3"
+  }
+}
